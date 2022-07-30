@@ -1,0 +1,12 @@
+AH00112: Warning: DocumentRoot [/var/www/html/public] does not exist
+[Sat Jul 30 08:07:56.413625 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.30 configured -- resuming normal operations
+[Sat Jul 30 08:07:56.414969 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Jul 30 09:01:11.610113 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Sat Jul 30 09:01:21.945119 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.30 configured -- resuming normal operations
+[Sat Jul 30 09:01:21.946388 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Jul 30 09:02:38.895974 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Sat Jul 30 09:06:42.234159 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.30 configured -- resuming normal operations
+[Sat Jul 30 09:06:42.236166 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Jul 30 10:15:20.536923 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Sat Jul 30 10:19:08.550063 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.30 configured -- resuming normal operations
+[Sat Jul 30 10:19:08.551630 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
